@@ -58,7 +58,7 @@ Commented code in our source files are only valid in development stage, before p
 
 ## 2.2 SonarLint
 
-Install the SonarLint plugin from AndroidStudio plugins section, once installed we must verify that our code must not contain any major or critical issues.
+Install the SonarLint plugin from AndroidStudio plugins section, once installed we must verify that our code must not contain any __major__ or __critical__ issues.
 
 ## 2.2 Format and optimization
 
